@@ -28,7 +28,7 @@ gallery:
     alt: "placeholder image 5"
     title: "Image 5 title caption"
   - url: /assets/images/screenshot(52).png
-    image_path: /assets/images/screenshot(52).png
+    image_path: /assets/images/Screenshot(52).png
     alt: "screenshot(52).png"
     title: "Image 6 title caption"
         
