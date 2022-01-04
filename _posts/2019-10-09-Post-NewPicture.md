@@ -1,14 +1,14 @@
 ---
 layout: posts
-title: Test Post
+title: Sample Post
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## This is a sample post
+asdfghj
+- 1
+- 2
+- 3
+- 4
 
 [my favorite website](http://www.google.com)
 
