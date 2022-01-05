@@ -19,11 +19,6 @@ title: labexam Post
 
 
 ![alt text](../assets/images/mydesk.jpeg "my desk Picture")
-<!-- - url: /assets/images/mydesk.jpeg
-    image_path: /assets/images/mydesk.jpeg
-    alt: "my desk image "
-
-    --- -->
 
 ---
-**Test**: This is atest
+
